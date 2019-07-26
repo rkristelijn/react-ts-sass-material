@@ -8,9 +8,10 @@ My goal is to set up a React boilerplate example using the common tools:
 
 ## Phase 1
 
-- [ ] Create a boilerplate with just React and typescript
-  - [ ] fix 16289 vulnerabilities found - Packages audited: 888779 [#1](https://github.com/rkristelijn/react-ts-sass-material/issues/1)
-- [ ] Add sass support
+- [x] Create a boilerplate with just React and typescript
+  - [x] fix 16289 vulnerabilities found - Packages audited: 888779 [#1](https://github.com/rkristelijn/react-ts-sass-material/issues/1)
+  - [ ] WARNING: You are currently running a version of Typescript which is not officially supporter by typescript-estree [#3](https://github.com/rkristelijn/react-ts-sass-material/issues/3)
+- [x] Add sass support [#2](https://github.com/rkristelijn/react-ts-sass-material/issues/2)
 - [ ] Add material.io support
 - [ ] Rebuild [the example](http://gius.nl/material) [github project](https://github.com/rkristelijn/react-material-ui)
 
